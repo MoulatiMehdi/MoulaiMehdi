@@ -2,7 +2,7 @@
 |--------------|----------------|
 
 </br>
-<div align="center">
+<div align="center" bgcolor='red'>
 <img src="https://projecteuler.net/profile/Mehdi_Moulati.png"/>
 </div>
 </br>
